@@ -71,12 +71,17 @@ mvn spring-boot:run
 
 #### e-Admin
 - **URL:** [http://localhost:8080/admin/home](http://localhost:8080/admin/home)
-- **Authentication Info:**
-  - **Username:** admin1
-  - **Password:** a1234
+<img src ="https://github.com/nipun-priyanjith/ecommerce_website_with_admin_panel/blob/master/New%20folder/admin%201.png"/>
+<img src="https://github.com/nipun-priyanjith/ecommerce_website_with_admin_panel/blob/master/New%20folder/admin%202.png"/>
+<img src="https://github.com/nipun-priyanjith/ecommerce_website_with_admin_panel/blob/master/New%20folder/admin%203.png"/>
 
 ####  e-Commerce
 - **URL:** [http://localhost:8080/ecommerce/home](http://localhost:8080/ecommerce/home)
+
+  
+<img src="https://github.com/nipun-priyanjith/ecommerce_website_with_admin_panel/blob/master/New%20folder/h%200.png"/>
+<img src="https://github.com/nipun-priyanjith/ecommerce_website_with_admin_panel/blob/master/New%20folder/h%202.png"/>
+<img src="https://github.com/nipun-priyanjith/ecommerce_website_with_admin_panel/blob/master/New%20folder/h%203.png"/>
 
 ## Database
 
