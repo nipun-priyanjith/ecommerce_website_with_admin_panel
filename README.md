@@ -24,8 +24,7 @@ Before running the application, ensure you have the following installed:
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/nipun-priyanjith/ecommerce_website_with_admin_panel.git
 ```
 
 #### 2. Set Up the Database
