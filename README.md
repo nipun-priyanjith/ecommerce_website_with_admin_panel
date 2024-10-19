@@ -122,16 +122,3 @@ mvn spring-boot:run
 - **RESTful API:** Knowledge of designing and consuming RESTful services.
 - **Database Management:** Skills in managing MySQL databases, including schema design and data manipulation.
 
-
-
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions, issues, or suggestions, feel free to reach out:
-
-- **Email:** your.email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
